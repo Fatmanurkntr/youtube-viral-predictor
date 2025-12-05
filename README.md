@@ -1,4 +1,16 @@
-# YouTube Viral İçerik Tahminleyicisi (YouTube Viral Predictor)
+# 📺 YouTube Viral İçerik Tahminleyicisi
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://youtube-viral-predictor-4mnejs9chyc53dymnhifcw.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-XGBoost-orange)
+
+## 🌐 Canlı Demo (Live App)
+
+Projeyi bilgisayarınıza kurmadan, tarayıcı üzerinden hemen denemek için aşağıdaki linke tıklayın:
+
+👉 **[YouTube Viral Predictor Uygulamasına Git](https://youtube-viral-predictor-4mnejs9chyc53dymnhifcw.streamlit.app/)**
+
+---
 
 ## Proje Hakkında
 
