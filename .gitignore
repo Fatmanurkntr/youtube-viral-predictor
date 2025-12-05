@@ -1,0 +1,13 @@
+# Veri setlerini yoksay
+data/*.csv
+data/*.json
+
+# Model dosyaları çok büyükse onları da yoksay
+model/*.pkl
+
+# Sistem dosyaları
+__pycache__/
+*.pyc
+.DS_Store
+.venv
+venv/
